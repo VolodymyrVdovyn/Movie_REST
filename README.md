@@ -1,4 +1,4 @@
-# Backend part of site with films. Wrote on DRF
+# Backend part of site with films. Wrote on Django REST framework
 
 Clone this project to your computer:
 
